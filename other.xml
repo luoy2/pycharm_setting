@@ -1,0 +1,18 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\yikan\Anaconda3\envs\cx_freeze_py\python.exe" value="false" />
+        <entry key="C:\Users\yikan\Anaconda3\envs\divisa36\python.exe" value="true" />
+        <entry key="C:\Users\yikan\Anaconda3\envs\py27\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\yikan\Anaconda3\envs\cx_freeze_py\python.exe" value="false" />
+        <entry key="C:\Users\yikan\Anaconda3\envs\divisa36\python.exe" value="false" />
+        <entry key="C:\Users\yikan\Anaconda3\envs\py27\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
