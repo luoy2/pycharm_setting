@@ -1,10 +1,21 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ViewSource" />
 </keymap>
