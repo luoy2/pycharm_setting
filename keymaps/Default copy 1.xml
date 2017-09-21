@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CodeCompletion" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -12,6 +13,11 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
