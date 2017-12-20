@@ -58,9 +58,13 @@
           <option name="url" value="https://yikang_l@bitbucket.org/dus_team/giveup_table_updating.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://yikang_l@bitbucket.org/dus_team/pms_investigation_tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\yikan\OneDrive\Documents\Divisa" />
+    <option name="cloneParentDir" value="D:\OneDrive - Equiti\Divisa" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
