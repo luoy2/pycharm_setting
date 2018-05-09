@@ -1,6 +1,5 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="CodeCompletion" />
@@ -21,6 +20,7 @@
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
   <action id="SaveAll" />
