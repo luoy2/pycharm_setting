@@ -4,9 +4,10 @@
     <extensionMap>
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="competitor_price_symbol" type="JSON" />
+      <mapping pattern="order_offset" type="PLAIN_TEXT" />
+      <mapping pattern="exception_setting.ini" type="PLAIN_TEXT" />
       <mapping pattern="single_account_rolle.py" type="PLAIN_TEXT" />
       <mapping pattern="mysql_auth.ini" type="PLAIN_TEXT" />
-      <mapping pattern="order_offset" type="PLAIN_TEXT" />
       <mapping pattern="updating_missing_confirmation_file.bat" type="PLAIN_TEXT" />
       <mapping ext="qss" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
