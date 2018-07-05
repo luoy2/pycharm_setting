@@ -74,8 +74,12 @@
           <option name="url" value="https://yikang_l@bitbucket.org/dus_team/divisatradematching.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luoy2/Cthulhu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OneDrive - Equiti\Divisa" />
+    <option name="cloneParentDir" value="D:\OneDrive\Programming\Python Programming" />
   </component>
 </application>
