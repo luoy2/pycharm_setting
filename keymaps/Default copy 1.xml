@@ -2,21 +2,28 @@
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CodeCompletion" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="CopyPaths" />
+  <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -27,13 +34,23 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl i" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll" />
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="alt j" />
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
