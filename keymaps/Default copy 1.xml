@@ -17,6 +17,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
@@ -29,6 +30,7 @@
   </action>
   <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
+  <action id="PyExecuteCellAction" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="alt button2" />
