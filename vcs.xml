@@ -86,8 +86,16 @@
           <option name="url" value="https://github.com/SerpentAI/SerpentAI.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luoy2/pyOnmyoji" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Jackeriss/iColor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OneDrive\Programming\Python Programming" />
+    <option name="cloneParentDir" value="D:\Goofing Around" />
   </component>
 </application>
