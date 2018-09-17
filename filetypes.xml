@@ -13,6 +13,7 @@
       <mapping ext="qss" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
