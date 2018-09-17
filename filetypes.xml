@@ -9,6 +9,7 @@
       <mapping pattern="single_account_rolle.py" type="PLAIN_TEXT" />
       <mapping pattern="mysql_auth.ini" type="PLAIN_TEXT" />
       <mapping pattern="updating_missing_confirmation_file.bat" type="PLAIN_TEXT" />
+      <mapping pattern="gitlab_token" type="PLAIN_TEXT" />
       <mapping ext="qss" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
