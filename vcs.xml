@@ -90,8 +90,12 @@
           <option name="url" value="https://github.com/luoy2/colorPicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luoy2/pyOnmyoji.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\OneDrive\Programming\Python Programming" />
+    <option name="cloneParentDir" value="C:\" />
   </component>
 </application>
